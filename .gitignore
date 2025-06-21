@@ -1,0 +1,54 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE和编辑器文件
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+.project
+.settings/
+.classpath
+
+# 临时文件
+*.tmp
+*.log
+*.bak
+*.swp
+*~
+
+# PHP相关
+vendor/
+composer.lock
+composer.phar
+
+# 备份文件
+*.sql
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+backup/
+
+# 配置文件（如果有敏感信息）
+# config.php
+
+# 日志文件
+logs/
+*.log
+
+# 缓存文件
+cache/
+*.cache
+
+# 本地测试文件
+test/
+tests/local/
+
+# 其他
+node_modules/
+.env 
