@@ -114,9 +114,9 @@
 
 ## 作者信息
 
-- 作者：BXCQ
 - 博客：https://blog.ybyq.wang/
 - GitHub：https://github.com/BXCQ
+- 原版插件地址：https://github.com/PengMai1998/VisitorLogger
 
 ## 许可证
 
@@ -313,7 +313,7 @@ MIT License
 - 符合相关法律法规要求
 
 
-原版插件地址：https://github.com/PengMai1998/VisitorLogger
+
 
 ### 其他
 - 优化移动端显示
