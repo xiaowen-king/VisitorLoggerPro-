@@ -312,6 +312,9 @@ MIT License
 - 明确的隐私声明
 - 符合相关法律法规要求
 
+
+原版插件地址：https://github.com/PengMai1998/VisitorLogger
+
 ### 其他
 - 优化移动端显示
 - 管理员访问自动排除
